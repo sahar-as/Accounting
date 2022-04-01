@@ -1,5 +1,5 @@
 # Accounting!
-[Screenshot_1](https://user-images.githubusercontent.com/63088252/161223293-adf65bae-770d-413d-8760-38a4e0d83ce4.png)
+![Screenshot_1](https://user-images.githubusercontent.com/63088252/161223847-1df60df6-3351-44c8-bd25-415b3dc0bd78.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/63088252/161223145-b831c64c-89fd-4e44-9634-446114857cc7.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/63088252/161223182-328828cb-3c1f-4dc1-94d8-b6c5320ea433.png)
 ![Screenshot_4](https://user-images.githubusercontent.com/63088252/161223201-564f9143-a685-43c8-9be5-8bcc6e7f2724.png)
